@@ -1,0 +1,12 @@
+Canvas tag hoti h ek jisse
+
+tool.fillRec()
+tool.fillStyle();
+
+tool.strokeRec();
+
+// line
+begintPath(x,y) start drawing
+moveTo(x,y) move to another cordinate
+lineTo(x,y)
+storke()
